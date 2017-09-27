@@ -1,0 +1,20 @@
+.border {
+  border: 2px solid black;
+  width: 40%;
+  margin: 1% 5%;
+  padding: 5px;
+  background-color: gray;
+  box-shadow: inset 4px 8px 8px black;
+}
+body {
+  text-align: center;
+}
+button {
+  width: 30%;
+  margin: 10px;
+  box-shadow: 2px 5px 5px black;
+}
+.active-user {
+  box-shadow: 4px 8px 8px black;
+  background-color: white;
+}
